@@ -1,7 +1,7 @@
 # Site settings
 title: Hux Blog
 SEOTitle: sapphire_fic
-header-img: img/home-bg.jpg
+header-img: img/xj-home.png
 email: sapphire_fic@foxmail.com
 description: "这里是sapphire_fic的个人网站"
 keyword: "徐拂来,sapphire_fic, sapphire, 拂来, 博客, 个人网站"
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: sapphire
 
 # Netease settings
 netease_comment: false
